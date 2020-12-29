@@ -25,7 +25,7 @@ const AboutMeMain = () => (
             <Col>
                 <img className='About-Me-Img'
                     src={MyImg}
-                    alt='Profile Picture'
+                    alt='Profile'
                 ></img>
             </Col>
         </Row>

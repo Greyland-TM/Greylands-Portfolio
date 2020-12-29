@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardTitle, CardActions, Button, CardMenu, IconButton, CardText } from 'react-mdl';
+import { Card, CardTitle, CardActions, Button, CardText } from 'react-mdl';
 import './Cards.css';
 
 const card = (props) => {

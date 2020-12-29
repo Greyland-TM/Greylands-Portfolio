@@ -1,6 +1,6 @@
 import React from 'react';
 import './Projects.css';
-import Aux from '../../HOC/Aux';
+// import Aux from '../../HOC/Aux';
 import ProjectCarousel from './ Carousels/Carousels';
 
 const Projects = () => (
