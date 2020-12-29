@@ -1,0 +1,34 @@
+.Carousel {
+    color: white;
+    text-align: center;
+    position: relative;
+    /* justify-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto; */
+    /* text-align: center; */
+    /* border: 1px solid red; */
+}
+
+.Carousel-Container {
+    height: 350px;
+    /* border: 1px solid red; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    position: relative;
+}
+
+.Carousel-Item {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.Center-Test {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}

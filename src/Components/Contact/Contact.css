@@ -1,0 +1,42 @@
+.Contacct-Background {
+    background-color: rgb(39, 65, 114);
+    border-top: 4px solid rgba(6, 187, 30, 0.541);
+    height: 100%;
+}
+
+.Container {
+    /* border: 1px solid red; */
+    background-color: rgb(39, 65, 114);
+    justify-content: center;
+    /* height: 500px; */
+    margin-top: 50px;
+    background-color: white;
+}
+
+.txt-left {
+    /* border: 1px solid red; */
+    color: black;
+    text-align: center;
+}
+
+.txt-left img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+/* .txt-left p {
+    padding: 15px;
+} */
+
+.txt-right {
+    /* border: 1px solid red; */
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+.txt-right h2 {
+    border-bottom: dotted 6px black;
+}
