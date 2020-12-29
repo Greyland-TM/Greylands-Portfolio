@@ -14,7 +14,7 @@ const LandingPage = () => (
         ></video>
         <Container className='img-txt-container'>
         <Row className='img-txt-1'>
-          <Col>Greyland Miller</Col>
+          <Col>Greyland Miller is here</Col>
         </Row>
         <Row className='img-txt-2'>
           <Col>Buiisness Intelligence / Freelance Web Developer</Col>
