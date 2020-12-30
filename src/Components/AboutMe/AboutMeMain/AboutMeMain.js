@@ -4,11 +4,11 @@ import MyImg from '../../../Media/ProfilePic.jpg';
 import '../AboutMeMain/AboutMeMain.css';
 
 const AboutMeMain = () => (
-    <Container>
+    <Container className='Main-Container'>
         <Row>
             <Col>
                 <h2>What About Greyland?</h2>
-                <p> I am a largly self taught software developer who is currently persuring a masters in computer 
+                <p> I am a largly self taught software developer who is currently persuing a masters in computer 
                     science and working at Columbia Helicopters as a Buisness Intelligence Developer. 
                     Most of my expierence is in front end web development and Microsoft applications. 
                 </p>
@@ -32,25 +32,25 @@ const AboutMeMain = () => (
             <Col></Col>
             <Col className='About-links'>
                 {/* Github */}
-                <a href='https://github.com/Greyland-TM/' 
+                {/* <a href='https://github.com/Greyland-TM/' 
                     target='_blank' rel='noopener noreferrer' 
                     className='Hover-Effect'>
                     <i className='fab fa-github' aria-hidden='true' />
-                </a>
+                </a> */}
 
                 {/* Linkden */}
-                <a href='https://www.linkedin.com/in/greyland-miller-a08b1a1b5/' 
+                {/* <a href='https://www.linkedin.com/in/greyland-miller-a08b1a1b5/' 
                     target='_blank' rel='noopener noreferrer' 
                     className='Hover-Effect'>
                     <i className='fab fa-linkedin' aria-hidden='true' />
-                </a>
+                </a> */}
 
                 {/* FaceBook */}
-                <a href='https://www.facebook.com/greyland.miller/' 
+                {/* <a href='https://www.facebook.com/greyland.miller/' 
                     target='_blank' rel='noopener noreferrer' 
                     className='Hover-Effect'>
                     <i className='fab fa-facebook' aria-hidden='true' />
-                </a>
+                </a> */}
             </Col>
     </Container>
 );

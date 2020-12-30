@@ -1,52 +1,14 @@
-/* .About-Me {
-    background-color: rgb(39, 65, 114);
-    height: 100%;
-    width: 100%;
-    color: white;
-    text-align: center;
-    border-top: 4px solid rgba(6, 187, 30, 0.541);
-    border-bottom: 4px solid rgb(156, 86, 141);
-}
-
-.About-Me-Head {
-    background-color: rgb(83, 83, 83);
-    height: 15px;
-}
-
-.About-Me-Img {
-    height: 400px;
-    width: 400px;
-    padding: 30px;
-    border-radius: 20%;
-}
-
-.About-Me p {
-    text-align: left;
-    font-size: 16px;
-}
-
-.About-Me span {
-    color: rgb(43, 175, 43);
+.Button-Style {
+    margin-bottom: 15px;
+    padding: 5px;
+    background-color: rgba(95, 95, 95, 0.555);
+    border-radius: 5%;
+    border: 1px solid rgb(0, 0, 0);
     font-weight: bold;
-    font-size: 19px;
-}
-
-.About-links {
-    justify-content: space-between;
-    width: 50%;
-    padding-top: 20px;
-    margin: auto;
-    right: 0;
-    padding-bottom: 15px;
-  }
-
-.About-links a {
+    font-size: 15px;
     color: white;
-    font-size: 3em;
-    padding: 8px;
-    left: 0;
 }
 
-.Hover-Effect:hover {
-    color: rgb(155, 65, 135);
-} */
+.Button-Style:hover {
+    background-color: gray;
+}
