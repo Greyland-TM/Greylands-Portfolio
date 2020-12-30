@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Greylands-Portfolio/static/css/main.c988e8e8.chunk.css",
-    "main.js": "/Greylands-Portfolio/static/js/main.2e4fe9b8.chunk.js",
-    "main.js.map": "/Greylands-Portfolio/static/js/main.2e4fe9b8.chunk.js.map",
-    "runtime-main.js": "/Greylands-Portfolio/static/js/runtime-main.1e57971a.js",
-    "runtime-main.js.map": "/Greylands-Portfolio/static/js/runtime-main.1e57971a.js.map",
+    "main.css": "/Greylands-Portfolio/static/css/main.1b7bfdf3.chunk.css",
+    "main.js": "/Greylands-Portfolio/static/js/main.60b9f324.chunk.js",
+    "main.js.map": "/Greylands-Portfolio/static/js/main.60b9f324.chunk.js.map",
+    "runtime-main.js": "/Greylands-Portfolio/static/js/runtime-main.b5f303f1.js",
+    "runtime-main.js.map": "/Greylands-Portfolio/static/js/runtime-main.b5f303f1.js.map",
     "static/css/2.f953fe6f.chunk.css": "/Greylands-Portfolio/static/css/2.f953fe6f.chunk.css",
-    "static/js/2.241e1d3a.chunk.js": "/Greylands-Portfolio/static/js/2.241e1d3a.chunk.js",
-    "static/js/2.241e1d3a.chunk.js.map": "/Greylands-Portfolio/static/js/2.241e1d3a.chunk.js.map",
-    "static/js/3.4d8225e1.chunk.js": "/Greylands-Portfolio/static/js/3.4d8225e1.chunk.js",
-    "static/js/3.4d8225e1.chunk.js.map": "/Greylands-Portfolio/static/js/3.4d8225e1.chunk.js.map",
+    "static/js/2.03268426.chunk.js": "/Greylands-Portfolio/static/js/2.03268426.chunk.js",
+    "static/js/2.03268426.chunk.js.map": "/Greylands-Portfolio/static/js/2.03268426.chunk.js.map",
+    "static/js/3.d6258c32.chunk.js": "/Greylands-Portfolio/static/js/3.d6258c32.chunk.js",
+    "static/js/3.d6258c32.chunk.js.map": "/Greylands-Portfolio/static/js/3.d6258c32.chunk.js.map",
     "index.html": "/Greylands-Portfolio/index.html",
     "static/css/2.f953fe6f.chunk.css.map": "/Greylands-Portfolio/static/css/2.f953fe6f.chunk.css.map",
-    "static/css/main.c988e8e8.chunk.css.map": "/Greylands-Portfolio/static/css/main.c988e8e8.chunk.css.map",
-    "static/js/2.241e1d3a.chunk.js.LICENSE.txt": "/Greylands-Portfolio/static/js/2.241e1d3a.chunk.js.LICENSE.txt",
+    "static/css/main.1b7bfdf3.chunk.css.map": "/Greylands-Portfolio/static/css/main.1b7bfdf3.chunk.css.map",
+    "static/js/2.03268426.chunk.js.LICENSE.txt": "/Greylands-Portfolio/static/js/2.03268426.chunk.js.LICENSE.txt",
     "static/media/ProfilePic.48e0ebce.jpg": "/Greylands-Portfolio/static/media/ProfilePic.48e0ebce.jpg",
     "static/media/video.cbc4864e.mp4": "/Greylands-Portfolio/static/media/video.cbc4864e.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e57971a.js",
+    "static/js/runtime-main.b5f303f1.js",
     "static/css/2.f953fe6f.chunk.css",
-    "static/js/2.241e1d3a.chunk.js",
-    "static/css/main.c988e8e8.chunk.css",
-    "static/js/main.2e4fe9b8.chunk.js"
+    "static/js/2.03268426.chunk.js",
+    "static/css/main.1b7bfdf3.chunk.css",
+    "static/js/main.60b9f324.chunk.js"
   ]
 }
