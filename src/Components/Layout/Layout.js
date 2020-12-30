@@ -5,6 +5,7 @@ import AboutMe from '../AboutMe/AboutMe';
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
 import Footer from '../Footer/Footer';
+import LandingPage from '../LandingPage/LandingPage';
 import './Layout.css';
 
 class Layout extends Component {
@@ -13,6 +14,7 @@ class Layout extends Component {
         return(
             <Aux className='Background'>
                 <Main></Main>
+                <LandingPage></LandingPage>
                 <AboutMe></AboutMe>
                 <Projects></Projects>
                 <Contact></Contact>
