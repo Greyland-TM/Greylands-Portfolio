@@ -13,6 +13,12 @@
     background-color: white;
 }
 
+.Container-Bottom {
+    height: 50px;
+    background-color: rgb(39, 65, 114);
+    width: 100%;
+}
+
 .txt-left {
     /* border: 1px solid red; */
     color: black;

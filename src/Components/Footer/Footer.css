@@ -1,3 +1,18 @@
+.Footer-Top {
+    border-top: 4px solid rgb(156, 86, 141);
+    background-color: rgb(83, 83, 83);
+    height: 15px;
+}
+
 .Footer-Background {
-    background-color: green;
+    background-color: rgb(1, 19, 53);
+    height: 100px;
+    color: white;
+}
+
+.Footer-Info {
+    color: white;
+    font-size: 17px;
+    margin-top: 17px;
+    text-align: center;
 }

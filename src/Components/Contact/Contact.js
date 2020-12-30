@@ -25,6 +25,7 @@ class Contact extends Component {
                         </Col>
                     </Row>
                 </Container>
+                <div className='Container-Bottom'></div>
             </div>
         )
     }
