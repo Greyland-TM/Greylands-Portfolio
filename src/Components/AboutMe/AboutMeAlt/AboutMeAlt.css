@@ -1,3 +1,7 @@
 .Alt-Container {
     Height: 477px;
 }
+
+.Alt-Container p {
+    text-align: center;
+}
